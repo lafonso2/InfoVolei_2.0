@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/classificacao_btn"
+        android:id="@+id/classificacaobtn"
         android:layout_width="203dp"
         android:layout_height="213dp"
         android:lineSpacingExtra="10dp"
@@ -22,7 +22,7 @@
         app:layout_constraintVertical_bias="0.102" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/noticiasbtn"
         android:layout_width="130dp"
         android:layout_height="442dp"
         android:text="Notícias"
@@ -37,7 +37,7 @@
         app:layout_constraintVertical_bias="0.184" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/fpvbtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Federação Portuguesa de Voleibol"
@@ -51,7 +51,7 @@
         app:layout_constraintVertical_bias="0.863" />
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/youtubefpv"
         android:layout_width="90dp"
         android:layout_height="90dp"
         android:src="@drawable/youtube"
@@ -63,7 +63,7 @@
         app:layout_constraintVertical_bias="0.471" />
 
     <ImageView
-        android:id="@+id/imageView6"
+        android:id="@+id/facebookfpv"
         android:layout_width="90dp"
         android:layout_height="90dp"
         android:src="@drawable/facebook"
@@ -75,7 +75,7 @@
         app:layout_constraintVertical_bias="0.631" />
 
     <ImageView
-        android:id="@+id/imageView8"
+        android:id="@+id/shopingfpv"
         android:layout_width="90dp"
         android:layout_height="90dp"
         android:src="@drawable/online_shopping"
@@ -87,7 +87,7 @@
         app:layout_constraintVertical_bias="0.471" />
 
     <ImageView
-        android:id="@+id/imageView9"
+        android:id="@+id/instagramfpv"
         android:layout_width="90dp"
         android:layout_height="90dp"
         android:src="@drawable/instagram"

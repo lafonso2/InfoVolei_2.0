@@ -13,25 +13,25 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.classificacaoBtn.setOnClickListener{
+        binding.classificacaobtn.setOnClickListener{
             openUrl("https://www.portugalvoleibol.com/classificacao/index")
         }
-        binding.button2.setOnClickListener{
+        binding.noticiasbtn.setOnClickListener{
             openUrl("https://fpvoleibol.pt/fpv/2024/")
         }
-        binding.button3.setOnClickListener{
+        binding.fpvbtn.setOnClickListener{
             openUrl("https://fpvoleibol.pt/fpv/")
         }
-        binding.imageView2.setOnClickListener{
+        binding.youtubefpv.setOnClickListener{
             openUrl("https://www.youtube.com/@VoleiTVPortugal")
         }
-        binding.imageView6.setOnClickListener{
+        binding.facebookfpv.setOnClickListener{
             openUrl("https://www.facebook.com/fpvoleibol")
         }
-        binding.imageView8.setOnClickListener{
+        binding.shopingfpv.setOnClickListener{
             openUrl("https://portugalvoleibol.com/store/")
         }
-        binding.imageView9.setOnClickListener{
+        binding.instagramfpv.setOnClickListener{
             openUrl("https://www.instagram.com/portugalvoleibol/")
         }
 
