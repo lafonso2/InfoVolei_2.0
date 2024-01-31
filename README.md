@@ -6,7 +6,7 @@ Infovolei 2.0 is an app dedicated to connect people to portuguese volleyball, to
 <img src="/result/img1.jpg" width="260">
 
 ## :video_camera: Video
-https://github.com/lafonso2/InfoVolei_2.0/assets/152394506/22fcbf39-496b-4eb9-a0a2-2628e41aed9b
+[https://github.com/lafonso2/InfoVolei_2.0/assets/152394506/22fcbf39-496b-4eb9-a0a2-2628e41aed9b](https://github.com/lafonso2/InfoVolei_2.0/assets/152394506/40abc8e1-ad9c-4f16-9a98-aef88df5de4e)
 
 ## :wrench: Tools and Resources Aplied
 - Kotlin
