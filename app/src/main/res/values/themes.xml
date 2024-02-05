@@ -4,7 +4,7 @@
 
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/green</item>
-        <item name="colorPrimaryVariant">@color/pink_100</item>
+        <item name="colorPrimaryVariant">@color/khaki</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/pink_100</item>
