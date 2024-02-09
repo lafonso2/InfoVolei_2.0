@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="@color/khaki">
+    android:background="@color/amarelo1">
 
     <Button
         android:id="@+id/classificacaobtn"
@@ -17,25 +17,23 @@
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.139"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.102" />
 
     <Button
         android:id="@+id/noticiasbtn"
-        android:layout_width="130dp"
-        android:layout_height="442dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="Notícias"
         android:textAlignment="center"
-        android:paddingBottom="350dp"
-        android:textSize="18sp"
+        android:textSize="17sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.919"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.184" />
+        app:layout_constraintVertical_bias="0.833" />
 
     <Button
         android:id="@+id/fpvbtn"
@@ -46,31 +44,29 @@
         android:textSize="17sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.863" />
+        app:layout_constraintVertical_bias="0.915" />
 
     <ImageView
         android:id="@+id/youtubefpv"
         android:layout_width="90dp"
         android:layout_height="90dp"
+        android:layout_marginStart="80dp"
         android:src="@drawable/youtube"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.09"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.471" />
+        app:layout_constraintVertical_bias="0.45" />
 
     <ImageView
         android:id="@+id/facebookfpv"
         android:layout_width="90dp"
         android:layout_height="90dp"
+        android:layout_marginStart="80dp"
         android:src="@drawable/facebook"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.09"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.631" />
@@ -79,23 +75,21 @@
         android:id="@+id/shopingfpv"
         android:layout_width="90dp"
         android:layout_height="90dp"
+        android:layout_marginEnd="80dp"
         android:src="@drawable/online_shopping"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.442"
-        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.471" />
+        app:layout_constraintVertical_bias="0.45" />
 
     <ImageView
         android:id="@+id/instagramfpv"
         android:layout_width="90dp"
         android:layout_height="90dp"
+        android:layout_marginEnd="80dp"
         android:src="@drawable/instagram"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.442"
-        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.631" />
 

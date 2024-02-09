@@ -3,9 +3,9 @@
     <style name="Base.Theme.InfoVolei20" parent="Theme.Material3.DayNight.NoActionBar">
 
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimary">@color/azul1</item>
         <item name="colorPrimaryVariant">@color/khaki</item>
-        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnPrimary">@color/branco1</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/pink_100</item>
         <item name="colorSecondaryVariant">@color/pink_300</item>

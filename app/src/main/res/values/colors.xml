@@ -11,4 +11,8 @@
     <color name="brown_700">#FF654544</color>
     <color name="red">#FF0000</color>
     <color name="yellow">#FFFF00</color>
+    <color name="azul1">#717ED3</color>
+    <color name="azul2">#5361C1</color>
+    <color name="amarelo1">#F0CC87</color>
+    <color name="branco1">#DCEAFC</color>
 </resources>
